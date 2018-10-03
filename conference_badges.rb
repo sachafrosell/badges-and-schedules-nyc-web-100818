@@ -10,6 +10,6 @@ end
 
 def assign_rooms(array)
   new_array = []
-  array.each_with_index do |name|
+  array.each_with_index do |name, index|
     
 end
